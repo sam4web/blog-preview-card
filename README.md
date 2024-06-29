@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solutions]()
+- Solution URL: [Frontend Mentor Solutions](https://www.frontendmentor.io/solutions/blog-preview-card-2cF752jGYD)
 - Live Site URL: [Github pages](https://sam4web.github.io/blog-preview-card/)
 
 ## Built with
